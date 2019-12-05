@@ -1,0 +1,28 @@
+{   "OSD":          "19.11.20.0",
+    "OSDDrivers":   "19.12.4.0",
+    "OSDSUS":       "19.12.3.0",
+    "OSDBuilder":   "19.11.20.0",
+    "Version":      "19.11.20.0",
+    "PSGallery":
+    [
+        "http://powershellgallery.com/packages/OSD/19.11.20.0"
+    ],
+    "NewLinks":
+    [
+        "osdbuilder.osdeploy.com/docs/advanced/settings",
+        "osdbuilder.osdeploy.com/docs/contentpacks"
+
+    ],
+    "HelpfulLinks":
+    [
+        "osdbuilder.osdeploy.com/release",
+        "osdbuilder.osdeploy.com/docs/basics",
+        "osdbuilder.osdeploy.com/module/functions"
+    ],
+    "LatestUpdates":
+    [
+        "19.11.20 Resolved Import-OSMedia issue",
+        "19.11.18 Show-OSDBuilderInfo more detailed",
+        "19.11.12 MMSJazz Edition"
+    ]
+}
