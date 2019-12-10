@@ -1,12 +1,12 @@
 {   "OSD":          "19.12.9.0",
     "OSDBuilder":   "19.12.10.1",
-    "OSDDrivers":   "19.9.10.0",
+    "OSDDrivers":   "19.12.10.0",
     "OSDSUS":       "19.12.10.0",
     "OSDBuilderHelp":
     [
-        "osddrivers.osdeploy.com/release",
-        "osddrivers.osdeploy.com/docs/basics",
-        "osddrivers.osdeploy.com/module/functions"
+        "osdbuilder.osdeploy.com/release",
+        "osdbuilder.osdeploy.com/docs/basics",
+        "osdbuilder.osdeploy.com/module/functions"
     ],
     "OSDBuilderNew":
     [
@@ -18,10 +18,13 @@
         "19.12.10 Lots of minor changes, see Release Notes",
         "19.11.20 Resolved Import-OSMedia issue"
     ],
-    "OSDDriversHelp":[],
+    "OSDDriversHelp":[
+        "osddrivers.osdeploy.com/release",
+        "osddrivers.osdeploy.com/module/functions"
+    ],
     "OSDDriversNew":[],
     "OSDDriversUpdates":
     [
-        "19.12.5 MultiPack Remove Superseded"
+        "19.12.10 Everything is quite new ... wait for the documentation"
     ]
 }
