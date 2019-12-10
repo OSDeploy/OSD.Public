@@ -15,9 +15,8 @@
     ],
     "OSDBuilderUpdates":
     [
-        "19.11.20 Resolved Import-OSMedia issue",
-        "19.11.18 Show-OSDBuilderInfo more detailed",
-        "19.11.12 MMSJazz Edition"
+        "19.12.10 Lots of minor changes, see Release Notes",
+        "19.11.20 Resolved Import-OSMedia issue"
     ],
     "OSDDriversHelp":[],
     "OSDDriversNew":[],
