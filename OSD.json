@@ -1,7 +1,7 @@
 {   "OSD":          "19.12.9.0",
     "OSDBuilder":   "19.12.10.1",
     "OSDDrivers":   "19.12.13.0",
-    "OSDSUS":       "19.12.12.0",
+    "OSDSUS":       "19.12.16.0",
     "OSDBuilderHelp":
     [
         "osdbuilder.osdeploy.com/release",
