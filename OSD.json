@@ -1,5 +1,5 @@
-{   "OSD":          "19.12.9.0",
-    "OSDBuilder":   "19.12.10.1",
+{   "OSD":          "19.12.19.0",
+    "OSDBuilder":   "19.12.19.0",
     "OSDDrivers":   "19.12.13.0",
     "OSDSUS":       "19.12.16.0",
     "OSDBuilderHelp":
@@ -15,6 +15,7 @@
     ],
     "OSDBuilderUpdates":
     [
+        "19.12.19 Bug Fixes",
         "19.12.10 Lots of minor changes, see Release Notes",
         "19.11.20 Resolved Import-OSMedia issue"
     ],
