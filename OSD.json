@@ -1,5 +1,5 @@
 {   "OSD":          "19.12.19.0",
-    "OSDBuilder":   "19.12.19.0",
+    "OSDBuilder":   "20.2.20.1",
     "OSDDrivers":   "19.12.13.0",
     "OSDSUS":       "20.2.15.0",
     "OSDUpdate":    "20.2.5.0",
@@ -16,9 +16,7 @@
     ],
     "OSDBuilderUpdates":
     [
-        "19.12.19 Bug Fixes",
-        "19.12.10 Lots of minor changes, see Release Notes",
-        "19.11.20 Resolved Import-OSMedia issue"
+        "20.2.20 Gary Blok Edition"
     ],
     "OSDDriversHelp":[
         "osddrivers.osdeploy.com/release",
