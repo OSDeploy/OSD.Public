@@ -1,8 +1,8 @@
 {   "OSD":          "20.2.26.1",
     "OSDBuilder":   "20.2.26.1",
     "OSDDrivers":   "19.12.13.0",
-    "OSDSUS":       "20.5.12.1",
-    "OSDUpdate":    "20.2.5.0",
+    "OSDSUS":       "20.5.27.2",
+    "OSDUpdate":    "20.5.28.1",
     "OSDBuilderHelp":
     [
         "osdbuilder.osdeploy.com/release",
