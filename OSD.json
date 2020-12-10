@@ -1,7 +1,7 @@
 {   "OSD":          "20.2.26.1",
-    "OSDBuilder":   "20.9.29.1",
+    "OSDBuilder":   "20.12.10.1",
     "OSDDrivers":   "20.6.23.1",
-    "OSDSUS":       "20.12.8.3",
+    "OSDSUS":       "20.12.10.1",
     "OSDUpdate":    "20.10.29.1",
     "OSDBuilderHelp":
     [
