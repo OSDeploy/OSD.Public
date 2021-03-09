@@ -1,5 +1,5 @@
-{   "OSD":          "21.2.24.1",
-    "OSDBuilder":   "20.12.16.1",
+{   "OSD":          "21.3.9.1",
+    "OSDBuilder":   "21.3.9.1",
     "OSDDrivers":   "20.6.23.1",
     "OSDSUS":       "21.2.26.1",
     "OSDUpdate":    "21.1.7.1",
@@ -16,9 +16,7 @@
     ],
     "OSDBuilderUpdates":
     [
-        "20.7.6 2004 Update",
-        "20.2.26 Gary Blok Edition v2",
-        "20.2.20 Gary Blok Edition"
+        "21.3.9.1 Resolved issue with SetupDU"
     ],
     "OSDDriversHelp":[
         "osddrivers.osdeploy.com/release",
