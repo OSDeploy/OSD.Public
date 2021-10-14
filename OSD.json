@@ -1,8 +1,8 @@
-{   "OSD":          "21.10.13.2",
-    "OSDBuilder":   "21.10.13.2",
+{   "OSD":          "21.10.14.1",
+    "OSDBuilder":   "21.10.14.1",
     "OSDDrivers":   "20.6.23.1",
-    "OSDSUS":       "21.9.15.2",
-    "OSDUpdate":    "21.6.24.1",
+    "OSDSUS":       "21.10.14.1",
+    "OSDUpdate":    "21.10.14.1",
     "OSDBuilderHelp":
     [
         "osdbuilder.osdeploy.com/release",
@@ -16,7 +16,7 @@
     ],
     "OSDBuilderUpdates":
     [
-        "21.5.27.1 Windows 10 21H1"
+        "21.10.14.1 Windows 11"
     ],
     "OSDDriversHelp":[
         "osddrivers.osdeploy.com/release",
