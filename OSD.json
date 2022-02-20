@@ -1,31 +1,27 @@
-{   "OSD":          "22.2.8.1",
-    "OSDBuilder":   "21.12.15.1",
+{   "OSD":          "22.2.19.1",
+    "OSDeploy":     "22.2.19.1",
+    "OSDBuilder":   "22.2.19.1",
     "OSDDrivers":   "22.2.8.1",
     "OSDSUS":       "22.2.8.1",
     "OSDUpdate":    "21.12.14.1",
     "OSDBuilderHelp":
     [
-        "osdbuilder.osdeploy.com/release",
-        "osdbuilder.osdeploy.com/docs/basics",
-        "osdbuilder.osdeploy.com/module/functions"
+        "22.2.19.1 Last Updated"
     ],
     "OSDBuilderNew":
     [
-        "osdbuilder.osdeploy.com/docs/advanced/settings",
-        "osdbuilder.osdeploy.com/docs/contentpacks"
+        "22.2.19.1 Last Updated"
     ],
     "OSDBuilderUpdates":
     [
-        "21.10.14.1 Windows 11"
+        "22.2.19.1 Last Updated"
     ],
     "OSDDriversHelp":[
-        "osddrivers.osdeploy.com/release",
-        "osddrivers.osdeploy.com/module/functions"
+        "22.2.8.1 Last Updated"
     ],
     "OSDDriversNew":[],
     "OSDDriversUpdates":
     [
-        "19.12.13 Minor changes",
-        "19.12.10 Everything is quite new ... wait for the documentation"
+        "22.2.8.1 Last Updated"
     ]
 }
