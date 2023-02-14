@@ -1,8 +1,8 @@
-{   "OSD":          "23.1.10.1",
+{   "OSD":          "23.2.14.1",
     "OSDeploy":     "22.2.19.1",
     "OSDBuilder":   "22.11.1.1",
     "OSDDrivers":   "22.2.8.1",
-    "OSDSUS":       "23.1.10.1",
+    "OSDSUS":       "23.2.14.1",
     "OSDUpdate":    "21.12.14.1",
     "OSDBuilderHelp":
     [
