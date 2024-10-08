@@ -1,20 +1,20 @@
-{   "OSD":          "24.3.20.1",
+{   "OSD":          "24.10.8.1",
     "OSDeploy":     "22.2.19.1",
-    "OSDBuilder":   "23.2.21.1",
+    "OSDBuilder":   "24.10.8.1",
     "OSDDrivers":   "22.2.8.1",
     "OSDSUS":       "24.3.20.1",
     "OSDUpdate":    "21.12.14.1",
     "OSDBuilderHelp":
     [
-        "22.2.19.1 Last Updated"
+        "24.10.8.1 Last Updated"
     ],
     "OSDBuilderNew":
     [
-        "22.2.19.1 Last Updated"
+        "24.10.8.1 Last Updated"
     ],
     "OSDBuilderUpdates":
     [
-        "22.2.19.1 Last Updated"
+        "24.10.8.1 Last Updated"
     ],
     "OSDDriversHelp":[
         "22.2.8.1 Last Updated"
